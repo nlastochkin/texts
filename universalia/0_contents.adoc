@@ -1,0 +1,8 @@
+= До вещей, в вещах, после вещей и почему это важно
+:toc:
+:toc-placement: preamble
+:toclevels: 1
+:showtitle:
+:Some attr: Some value
+
+== Введение
